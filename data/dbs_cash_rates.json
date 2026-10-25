@@ -1,0 +1,36 @@
+{
+    "bank": "星展銀行",
+    "reward_type": "cash",
+    "source": "https://www.dbs.com.tw/personal-zh/cards/rewards/cash-redeem-creditcard-cash-back",
+    "fetched_at": "2026-10-24T23:28:28+08:00",
+    "rules": [
+        {
+            "point_type": "飛行積金",
+            "points_required": 100,
+            "cash_received": 10,
+            "minimum_points": 300,
+            "points_increment": 100
+        },
+        {
+            "point_type": "活利積分",
+            "points_required": 1000,
+            "cash_received": 40,
+            "minimum_points": 5000,
+            "points_increment": 1000
+        },
+        {
+            "point_type": "現金積點／現金紅利",
+            "points_required": 300,
+            "cash_received": 300,
+            "minimum_points": 300,
+            "points_increment": 300
+        },
+        {
+            "point_type": "PChome聯名紅利點數",
+            "points_required": 100,
+            "cash_received": 80,
+            "minimum_points": 100,
+            "points_increment": 100
+        }
+    ]
+}

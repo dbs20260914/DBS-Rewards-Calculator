@@ -1,0 +1,128 @@
+{
+    "bank": "星展銀行",
+    "source": "https://www.dbs.com.tw/personal-zh/cards/rewards/fly_redeem_mileage",
+    "fetched_at": "2026-10-24T19:32:26+08:00",
+    "total_rules": 15,
+    "rules": [
+        {
+            "point_type": "飛行積金",
+            "airline": "長榮航空",
+            "points_required": 1,
+            "miles_received": 1,
+            "minimum_miles": 6000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "飛行積金",
+            "airline": "亞洲萬里通",
+            "points_required": 1,
+            "miles_received": 1,
+            "minimum_miles": 6000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "飛行積金",
+            "airline": "新加坡航空",
+            "points_required": 1,
+            "miles_received": 1,
+            "minimum_miles": 6000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "飛行積金",
+            "airline": "中華航空",
+            "points_required": 2,
+            "miles_received": 1,
+            "minimum_miles": 6000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "活利積分（一般卡）",
+            "airline": "長榮航空",
+            "points_required": 5,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "活利積分（一般卡）",
+            "airline": "亞洲萬里通",
+            "points_required": 5,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "活利積分（一般卡）",
+            "airline": "中華航空",
+            "points_required": 9,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "活利積分（極耀無限卡）",
+            "airline": "長榮航空",
+            "points_required": 3,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "活利積分（極耀無限卡）",
+            "airline": "亞洲萬里通",
+            "points_required": 3,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "活利積分（極耀無限卡）",
+            "airline": "中華航空",
+            "points_required": 6,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "現金積點／現金紅利",
+            "airline": "長榮航空",
+            "points_required": 1,
+            "miles_received": 2,
+            "minimum_miles": 100,
+            "miles_increment": 100
+        },
+        {
+            "point_type": "現金積點／現金紅利",
+            "airline": "亞洲萬里通",
+            "points_required": 1,
+            "miles_received": 2,
+            "minimum_miles": 100,
+            "miles_increment": 100
+        },
+        {
+            "point_type": "現金積點／現金紅利",
+            "airline": "中華航空",
+            "points_required": 9,
+            "miles_received": 10,
+            "minimum_miles": 100,
+            "miles_increment": 100
+        },
+        {
+            "point_type": "PChome聯名紅利點數",
+            "airline": "長榮航空",
+            "points_required": 1,
+            "miles_received": 2,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        },
+        {
+            "point_type": "PChome聯名紅利點數",
+            "airline": "亞洲萬里通",
+            "points_required": 1,
+            "miles_received": 1,
+            "minimum_miles": 3000,
+            "miles_increment": 1000
+        }
+    ]
+}
